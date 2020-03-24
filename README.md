@@ -3,3 +3,4 @@
 # Projeto de informatização da gestão de entrada, saída e permanência de veículos em estacionamento.
 Teste GITHUB + GUI
 # Alteração feita no ambiente remoto por outro dev
+Modificação local com GIT Desktop
