@@ -5,3 +5,4 @@ Teste GITHUB + GUI
 # Alteração feita no ambiente remoto por outro dev
 Modificação local com GIT Desktop
 Modifiquei de novo com GIT Desktop
+Modifiquei no GITGUI DE NOVO 
