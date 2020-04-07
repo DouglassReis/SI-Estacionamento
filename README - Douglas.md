@@ -7,4 +7,4 @@ Modificação local com GIT Desktop
 Modifiquei de novo com GIT Desktop
 Modifiquei no GITGUI DE NOVO 
 
-eSSE É O README ORIGINAL
+ESSE NÃO É O README ORIGINAL
